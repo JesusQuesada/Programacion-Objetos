@@ -16,7 +16,7 @@ public class Pruebasgit {
      */
     public static void main(String[] args) {
         // Primera modificación > commit
-        // Segunda modificación > commit
+        // Segunda modificación > commit 2
     }
     
 }
